@@ -1,80 +1,101 @@
-<h1 align="center">Purvanshu Jindal</h1>
+<h1 align="center">
+  <span style="color:#58A6FF;">Purvanshu Jindal</span>
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;CSE+Student+%40+MAIT+Delhi;Building+Scalable+Backend+Systems;200%2B+DSA+Problems+Solved" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;IT+@+MAIT+Delhi+(CGPA:+8.83);Building+Scalable+Backend+Systems;200%2B+DSA+Problems+Solved;Real-Time+System+Enthusiast" />
 </p>
 
 <p align="center">
-  Designing systems. Writing clean code. Building with intent.
+  <i>Designing scalable systems. Writing clean code. Shipping real products.</i>
 </p>
 
 ---
 
-## About
+## 👨‍💻 About Me
 
-Information Technology undergraduate (CGPA: 8.83) focused on scalable web systems, real-time collaboration platforms, and clean backend architecture.
+Computer Science undergraduate passionate about building **production-grade full-stack systems** and **real-time applications**.
 
-Currently preparing for 2026 placements while building production-grade applications.
+- 🎓 B.Tech CSE — MAIT Delhi  
+- 💼 Former Full Stack & AI Intern  
+- 🚀 Preparing for 2026 placements  
+- 🧠 200+ DSA problems solved  
 
 ---
 
-## Experience
+## 💼 Experience
 
-### Full Stack Web Development Intern — Unified Mentor  
+### 🔹 Full Stack Web Development Intern — Unified Mentor  
 **Jun 2025 – Aug 2025**
 - Built & deployed 3+ MERN applications  
-- Implemented JWT authentication & RBAC  
-- Improved API efficiency by ~20%
+- Implemented JWT authentication & role-based access control  
+- Improved API performance by ~20%
 
-### AI Intern — Mirai School of Technology  
+### 🔹 AI Intern — Mirai School of Technology  
 **Jul 2025 – Aug 2025**
-- Developed AI-powered itinerary generator (5+ APIs)  
+- Developed AI-powered itinerary generator integrating 5+ APIs  
 - Automated workflows reducing manual effort by ~30%
 
 ---
 
-## Selected Projects
+## 🚀 Featured Projects
 
-### WeCode — Real-Time Collaborative Coding Platform
-- WebSocket-based real-time synchronization  
+### 🧑‍💻 WeCode — Real-Time Collaborative Coding Platform
+- WebSocket-based synchronization (10+ concurrent users)  
 - Multi-language execution via Judge0 API  
-- Live chat + synchronized whiteboard  
+- Live chat + whiteboard + presence tracking  
 
-### FitLife — Gym Management System
+### 🏋️ FitLife — Gym Management System
 - Role-based dashboards  
-- Workout tracking & PDF invoices  
+- Workout tracking & PDF invoice generation  
 - RESTful API integration  
 
-### AI Travel Planner
-- AI-driven itinerary generation  
+### 🌍 AI Travel Planner
+- AI-driven personalized itinerary generation  
 - Multi-service workflow orchestration  
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
-**Languages**  
-Java • JavaScript • TypeScript  
-
-**Frontend**  
-React • Next.js • Tailwind CSS  
-
-**Backend**  
-Node.js • Express.js  
-
-**Database**  
-MongoDB  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,git" />
+</p>
 
 ---
 
-## Problem Solving
+## 📊 GitHub Analytics
 
-300+ DSA problems solved  
-Strong in Trees • Graphs • Binary Search • DP  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Purvanshu10&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purvanshu10&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+</p>
 
 ---
 
-## Contact
+## 🧠 Problem Solving
 
-Email: purvanshujindal10@gmail.com  
-LinkedIn: https://www.linkedin.com/in/purvanshu-jindal-2127a32b2/  
+- 200+ Data Structures & Algorithms problems  
+- Strong in Trees • Graphs • Binary Search • Dynamic Programming  
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:purvanshujindal10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-58A6FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/purvanshu-jindal-2127a32b2/">
+    <img src="https://img.shields.io/badge/LinkedIn-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Purvanshu10">
+    <img src="https://img.shields.io/badge/GitHub-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Open to internships, collaborations, and impactful engineering roles.
+</p>
