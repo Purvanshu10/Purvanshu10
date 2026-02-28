@@ -19,7 +19,7 @@ Computer Science undergraduate passionate about building **production-grade full
 - 🎓 B.Tech CSE — MAIT Delhi  
 - 💼 Former Full Stack & AI Intern  
 - 🚀 Preparing for 2026 placements  
-- 🧠 200+ DSA problems solved  
+- 🧠 300+ DSA problems solved  
 
 ---
 
@@ -62,20 +62,13 @@ Computer Science undergraduate passionate about building **production-grade full
   <img src="https://skillicons.dev/icons?i=java,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,git" />
 </p>
 
----
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Purvanshu10&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purvanshu10&layout=compact&theme=github_dark&hide_border=true" height="165"/>
-</p>
 
 ---
 
 ## 🧠 Problem Solving
 
-- 200+ Data Structures & Algorithms problems  
+- 300+ Data Structures & Algorithms problems  
 - Strong in Trees • Graphs • Binary Search • Dynamic Programming  
 
 ---
