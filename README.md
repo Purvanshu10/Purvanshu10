@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;IT+@+MAIT+Delhi+(CGPA:+8.83);Building+Scalable+Backend+Systems;200%2B+DSA+Problems+Solved;Real-Time+System+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;IT+@+MAIT+Delhi+(CGPA:+8.83);Building+Scalable+Backend+Systems;300%2B+DSA+Problems+Solved;Real-Time+System+Enthusiast" />
 </p>
 
 <p align="center">
